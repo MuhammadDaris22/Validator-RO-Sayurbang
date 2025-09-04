@@ -1,0 +1,5 @@
+{
+  "name": "Validator RO Bahan Sayurbang",
+  "description": "Aplikasi untuk memvalidasi data penjualan dari Google Sheet dan mendapatkan wawasan menggunakan AI. Unggah data Anda, validasi formatnya, dan ajukan pertanyaan tentang data penjualan Anda.",
+  "requestFramePermissions": []
+}
